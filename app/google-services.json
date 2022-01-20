@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607920235111",
+    "project_id": "simulator-dio-sportheca-e6b6f",
+    "storage_bucket": "simulator-dio-sportheca-e6b6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607920235111:android:5a1c454917397cad93aac2",
+        "android_client_info": {
+          "package_name": "com.kktua.simulador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607920235111-olld18vfms3t3vvrntng7om35n5u7scv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb5TxyAI85_ABQXCQ3oLrDTb0SMOu7VWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607920235111-olld18vfms3t3vvrntng7om35n5u7scv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
